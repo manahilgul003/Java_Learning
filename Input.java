@@ -5,12 +5,11 @@
     public static void main(String[] args) {
         System.out.print("Your Favourite Driver?");
 
-        // Check if there is input
+      
         if (userInput.hasNext()) {
-            // Read the input
+        
             String nameEntered = userInput.next();
  
-            // Correct the typo in 'println' and the variable name
             System.out.println("You Entered " + nameEntered);
             
         }
