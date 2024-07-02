@@ -3,7 +3,7 @@ import java.util.List;
 
 public class ListExample {
     public static void main(String[] args) {
-        // Creating a list
+        // Creating  list
         List<String> fruits = new ArrayList<>();
 
         // Adding elements
