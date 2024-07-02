@@ -3,7 +3,7 @@ import java.util.Set;
 
 public class SetExample {
     public static void main(String[] args) {
-        // Creating a set
+        // Creating  set
         Set<String> fruits = new HashSet<>();
 
         // Adding elements
