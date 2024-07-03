@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "metadata": {
+            "price": 2500,
+            "categories": ["drama", "tragedy"],
+            "isbn": "9781234567890",
+            "pages": 320
+        }
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "metadata": {
+            "price": 1800,
+            "categories": ["dystopian", "sci-fi"],
+            "isbn": "9781234567891",
+            "pages": 268
+        }
+    },
+    {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "metadata": {
+            "price": 2200,
+            "categories": ["fantasy", "adventure"],
+            "isbn": "9781234567892",
+            "pages": 310
+        }
+    },
+    {
+        "title": "Macbeth",
+        "author": "William Shakespeare",
+        "metadata": {
+            "price": 2000,
+            "categories": ["drama", "tragedy"],
+            "isbn": "9781234567893",
+            "pages": 250
+        }
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "metadata": {
+            "price": 1700,
+            "categories": ["drama"],
+            "isbn": "9781234567894",
+            "pages": 281
+        }
+    },
+    {
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "metadata": {
+            "price": 1900,
+            "categories": ["dystopian", "sci-fi"],
+            "isbn": "9781234567895",
+            "pages": 311
+        }
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "metadata": {
+            "price": 1600,
+            "categories": ["drama", "coming-of-age"],
+            "isbn": "9781234567896",
+            "pages": 214
+        }
+    }
+]
