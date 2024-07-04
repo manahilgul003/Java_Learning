@@ -1,0 +1,41 @@
+Book
+The Great Gatsby
+F. Scott Fitzgerald
+33.6
+Fiction
+9780743273565
+--------------------------------------------------
+Movie
+Inception
+Christopher Nolan
+19.99
+Science Fiction
+2010
+Warner Bros.
+2.5
+--------------------------------------------------
+AudioBook
+The Hitchhiker's Guide to the Galaxy
+Douglas Adams
+29.99
+5.5
+Stephen Fry
+BBC Audio
+2005
+--------------------------------------------------
+Magazine
+National Geographic
+National Geographic Society
+Various Writers
+9.99
+2023
+100
+English
+--------------------------------------------------
+Book
+It Ends with us
+Collen Hoover
+10.0
+Romance
+12345
+--------------------------------------------------
