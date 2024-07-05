@@ -1,0 +1,65 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "metadata": {
+      "price": 10.99,
+      "categories": [
+        "Classic",
+        "Fiction"
+      ],
+      "isbn": "9780743273565",
+      "pages": 180
+    },
+    "type": "book"
+  },
+  {
+    "title": "Inception",
+    "director": "Christopher Nolan",
+    "price": 14.99,
+    "type": "movie"
+  },
+  {
+    "title": "Becoming",
+    "price": 25.0,
+    "type": "audiobook"
+  },
+  {
+    "title": "National Geographic",
+    "publisher": "National Geographic Partners",
+    "price": 5.99,
+    "type": "magazine"
+  },
+  {
+    "title": "Harry Potter ",
+    "author": "J.K Rowling",
+    "metadata": {
+      "price": 15.6,
+      "categories": [
+        "magic",
+        "fiction"
+      ],
+      "isbn": "12345678",
+      "pages": 500
+    },
+    "type": "book"
+  },
+  {
+    "title": "Up",
+    "director": "John Sterling",
+    "price": 12.4,
+    "type": "movie"
+  },
+  {
+    "title": "Podcast",
+    "singer": "James Beufort",
+    "price": 10.2,
+    "type": "audiobook"
+  },
+  {
+    "title": "Smash",
+    "publisher": "learn.co",
+    "price": 5.3,
+    "type": "magazine"
+  }
+]
